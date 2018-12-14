@@ -1,0 +1,15 @@
+@media print {
+    img {display: none;}
+    #menubar {display: none;}
+    #sidebar_container {display: none;}
+    #sidebar {display: none;}
+    #search_form {display: none;}
+    #content {
+        float: left;
+    }
+    #footer {
+        display: none;
+    }
+    #banner {display: none;}
+    
+}
